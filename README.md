@@ -3,7 +3,7 @@
 - [📖 中文文档](README_zh.md)
 - [📖 English Documentation](README_en.md)
 
-A Python script for automatically uploading model files to CivitAI platform.
+A Python-based tool to automatically upload AI models to Civitai. Supports batch uploading, metadata synchronization, and automated workflow for Stable Diffusion creators.
 
 ## Quick Start
 
